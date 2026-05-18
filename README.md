@@ -65,7 +65,7 @@ To produce the final 256-bit tag (hash), a squeezing phase is performed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/kekwX/SAUT.git
-   cd <FOLDER_NAME>
+   cd SAUT
    ```
 
 2. Run the encryption algorithm (test vectors from the documentation are hardcoded in `main.go`):
